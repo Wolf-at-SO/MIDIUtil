@@ -111,7 +111,7 @@ write it to disk.
 
     from midiutil import MIDIFile
 
-    degrees  = [60, 62, 64, 65, 67, 69, 71, 72]  # MIDI note number
+    degrees  = [60, 62, 64, 65, 67, 69, 71, 72]  # MIDI note numbers
     track    = 0
     channel  = 0
     time     = 0    # In beats
